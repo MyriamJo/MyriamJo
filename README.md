@@ -5,7 +5,7 @@ Highly motivated senior student in Computer Systems Networking and Telecommunica
 
 * 🌍  I'm based in Cairo, Egypt
 * ✉️  You can contact me at [miriamjoseph16@gmail.com](mailto:miriamjoseph16@gmail.com)
-* 🧠  I'm learning GenAI, LLM, RPA, Web development
+* 🧠  I'm learning GenAI, LLM, RPA, Web development, AI Agents
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
