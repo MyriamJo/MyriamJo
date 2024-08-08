@@ -24,9 +24,9 @@ Highly motivated senior student in Computer Systems Networking and Telecommunica
 
 #### Frontend Development
 
-| HTML5 | CSS3 | Bootstrap | React | Next.js | Java Swing |
-| :---: | :--: | :-------: | :---: | :-----: | :--------: |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) | ![Java Swing](https://img.shields.io/badge/Java_Swing-007396?logo=java&logoColor=white) |
+| HTML5 | CSS3 | Bootstrap | React | Java Swing |
+| :---: | :--: | :-------: | :---: | :--------: |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white) | ![Java Swing](https://img.shields.io/badge/Java_Swing-007396?logo=java&logoColor=white) |
 
 #### Backend Development
 
