@@ -1,7 +1,4 @@
-Fresh Graduate Networks and Telecommunications Engineer at The German University in Cairo (GUC) with a keen interest in software development and emerging technologies. Proficient in practical projects, including mobile app development and AI. I am actively seeking new career opportunities and eager to explore roles that align with my skills and aspirations.
-
-* ✉️  You can contact me at [miriamjoseph16@gmail.com](mailto:miriamjoseph16@gmail.com)
-* 🧠  I'm learning GenAI, LLM and AI Agents
+Fresh Graduate Networks and Telecommunications Engineer at The German University in Cairo (GUC) with a keen interest in software development and emerging technologies. Proficient in practical projects, including mobile app development and AI. I am actively seeking new career opportunities and eager to explore roles that align with my skills and aspirations. [miriamjoseph16@gmail.com](mailto:miriamjoseph16@gmail.com)
 
 ### Skills and Frameworks
 
