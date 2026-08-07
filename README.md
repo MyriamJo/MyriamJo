@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Myriam Joseph
 =====================================================================================================================================
 
-Highly motivated senior student in Computer Systems Networking and Telecommunications at The German University in Cairo (GUC) with a keen interest in software development and emerging technologies. Proficient in practical projects, including mobile app development and AI. I am actively seeking new career opportunities and eager to explore roles that align with my skills and aspirations.
+Fresh Graduate Networks and Telecommunications Engineer at The German University in Cairo (GUC) with a keen interest in software development and emerging technologies. Proficient in practical projects, including mobile app development and AI. I am actively seeking new career opportunities and eager to explore roles that align with my skills and aspirations.
 
 * 🌍  I'm based in Cairo, Egypt
 * ✉️  You can contact me at [miriamjoseph16@gmail.com](mailto:miriamjoseph16@gmail.com)
